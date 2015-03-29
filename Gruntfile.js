@@ -405,7 +405,7 @@ module.exports = function (grunt) {
       },
       heroku: {
         options: {
-          remote: 'git@heroku.com:dry-chamber-1376.git',
+          remote: 'git@heroku.com:real-estate-guide.git',
           branch: 'master'
         }
       }
